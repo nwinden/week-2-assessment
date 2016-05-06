@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+}
+
+
+.generate{
+  margin-bottom: 15px;
+}
+
+
+
+.btn-container{
+  background-color: yellow;
+  width: 250px;
+  text-align: center;
+  margin:auto;
+}
+
+.red{
+  background-color: red;
+}
